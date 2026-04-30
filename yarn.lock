@@ -962,10 +962,10 @@
   resolved "https://registry.yarnpkg.com/@csstools/css-tokenizer/-/css-tokenizer-3.0.4.tgz#333fedabc3fd1a8e5d0100013731cf19e6a8c5d3"
   integrity sha512-Vd/9EVDiu6PPJt9yAh6roZP6El1xHrdvIVGjyBsHR0RYwNHgL7FJPyIIW4fANJNG6FtyZfvlRPpFI4ZM/lubvw==
 
-"@ctrlo/common@^1.0.0":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@ctrlo/common/-/common-1.0.1.tgz#86cb19ab6e95a0ee2329570b1e5948d2e47d26f9"
-  integrity sha512-lSlNuctXglT2Fd8unGKQ6yeYdcTalrXZWsKeJ3zaAWgIC4cdC3CClei8uDjoN+Qai0XLgl++LOSZwHwYqss+5A==
+"@ctrlo/common@^1.0.2":
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/@ctrlo/common/-/common-1.0.2.tgz#25f38059ba9aa8931e1f2a69fe2cb48751f02055"
+  integrity sha512-GJB5ZKy1g6l7s5O9HFTXPLegWKb5b7/TZOHPWJMVjpThJO/k1wMBX8THRnMhNO7yXPI+bw6VkJm6pBYuyPuhgw==
   dependencies:
     jquery "^3.6.0"
 
@@ -1833,7 +1833,7 @@ argparse@^1.0.7:
   dependencies:
     sprintf-js "~1.0.2"
 
-babel-jest@30.3.0:
+babel-jest@30.3.0, babel-jest@^30.3.0:
   version "30.3.0"
   resolved "https://registry.yarnpkg.com/babel-jest/-/babel-jest-30.3.0.tgz#3ff5553fa3bcbb8738d2d7335a4dbdc3bd1a0eb5"
   integrity sha512-gRpauEU2KRrCox5Z296aeVHR4jQ98BCnu0IO332D/xpHNOsIH/bgSRk9k6GbKIbBw8vFeN6ctuu6tV8WOyVfYQ==

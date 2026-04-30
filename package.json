@@ -11,10 +11,10 @@
     "@babel/core": "^7.29.0",
     "@babel/preset-env": "^7.29.2",
     "@babel/preset-typescript": "^7.28.5",
-    "@ctrlo/common": "^1.0.0",
     "@eslint/js": "^10.0.1",
     "@stylistic/eslint-plugin": "^5.10.0",
     "@types/jquery": "^4.0.0",
+    "babel-jest": "^30.3.0",
     "eslint": "^10.2.1",
     "eslint-plugin-jsdoc": "^62.9.0",
     "globals": "^17.5.0",
@@ -28,7 +28,7 @@
     "prepare": "yarn tsc"
   },
   "dependencies": {
-    "@ctrlo/common": "^1.0.0",
+    "@ctrlo/common": "^1.0.2",
     "jquery": "^4.0.0"
   }
 }
