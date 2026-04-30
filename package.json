@@ -6,6 +6,7 @@
     ".": "./dist/UploadControl.js"
   },
   "types": "./dist/UploadControl.d.ts",
+  "type": "module",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.29.0",
