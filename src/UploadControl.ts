@@ -52,7 +52,7 @@ export async function upload<T = unknown>(url: string | URL, data?: FormData | o
  */
 export class Uploader {
     private onProgressCallback?: ProgressFunction;
-    
+
     /**
      * Create a new Uploader instance
      * @param {string | URL} url The endpoint to upload to
